@@ -1,5 +1,5 @@
 # TParadise
 
-Simple website.
+Simple website from Front-End course, build with HTML, SCSS and JS.
 
-live - https://kupi403.github.io/TParadise/
+Live - https://kupi403.github.io/TParadise/
